@@ -1,13 +1,19 @@
 # The Reactor Kafka open-source project is no longer being maintained. Open-source support for this project ended on 2026-06-30
 
-**Notice**
+## Notice
+
 The Reactor Kafka project was discontinued on May 2025. The team has laid out the reasons to discontinue the project [in the announcement](https://spring.io/blog/2025/05/20/reactor-kafka-discontinued). 
+
+## Alternative Option
+
+Are you looking for an alternative project for Reactor Kafka? Please take a look at the open-source project [Atleon](https://atleon.io/atleon).
 
 ---
 
+### Building Reactor Kafka jars ###
+
 You need to have [Java 8](https://www.oracle.com/technetwork/java/javase/downloads/index.html) installed.
 
-### Building Reactor Kafka jars ###
     ./gradlew jar
 
 ### Running unit tests ###
